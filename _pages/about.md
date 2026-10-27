@@ -9,8 +9,6 @@ redirect_from:
 
 Hi, I'm Chijung (CJ) Park, a senior at Carnegie Mellon University, majoring in Statistics & Machine Learning. My research interests lie at the intersection of statistics and machine learning, particularly in developing scalable and reliable methods for predictive inference, with applications to scientific and engineering problems such as earthquake forecasting and materials design.
 
-I'm applying to PhD programs for Fall 2027.
-
 ## Research
 
 **Distilling the E-Step for Fast Stochastic Declustering**  
